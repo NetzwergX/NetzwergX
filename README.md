@@ -9,4 +9,5 @@ SQL (mainly MySQL), HTML, CSS, JS/TS and ORM (JPA & Hibernate, EF Core).
 I'm **currently writing my bachelors thesis** on a novel approach to *continuos practices*,
 foremost in the context of *GitLab*, but also including the CI/CD pipeline of GitHub with 
 GitHub Actions, with the goal of simplifying the configuration of pipelines and workflows
-significantly and reducing the need to employ trial & error development.
+significantly and reducing the need to employ trial & error in order to arrive at a working
+configuration.

@@ -1,16 +1,12 @@
-### Hi there 👋
+I'm a student of computer science at TU Dortmund while also working as freelancer, 
+providing individual software solutions for my customers.
 
-<!--
-**NetzwergX/NetzwergX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The languages I work with are mainly Java and C# (.Net Core), as well a TypeScript.  
+I'm versed in many of the supporting and underlying technologies for web development,
+inlcuding, but not limited to:   
+SQL (mainly MySQL), HTML, CSS, JS/TS and ORM (JPA & Hibernate, EF Core).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **currently writing my bachelors thesis** on a novel approach to *continuos practices*,
+foremost in the context of *GitLab*, but also including the CI/CD pipeline of GitHub with 
+GitHub Actions, with the goal of simplifying the configuration of pipelines and workflows
+significantly and reducing the need to employ trial & error development.

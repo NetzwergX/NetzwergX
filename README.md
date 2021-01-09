@@ -1,5 +1,4 @@
-I'm a student of computer science at TU Dortmund while also working as freelancer, 
-providing individual software solutions for my customers.
+I'm a student of computer science at TU Dortmund University.
 
 The languages I work with are mainly Java and C# (.Net Core), as well a TypeScript.  
 I'm versed in many of the supporting and underlying technologies for web development,

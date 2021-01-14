@@ -1,4 +1,10 @@
-# My git aliases
+[core]
+	autocrlf = false
+	editor = code --wait
+	eol = lf
 [alias]
 	graph = log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(bold yellow)%d%C(reset)' --all --encoding=UTF-8
 	recheck = checkout -- .
+	changelog = !pwsh -NoProfile -File 'path/to/git-changelog/git-changelog.ps1'
+[init]
+	defaultBranch = main

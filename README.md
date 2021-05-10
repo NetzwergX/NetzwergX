@@ -1,4 +1,5 @@
-I'm a student of computer science at TU Dortmund University.
+I'm a student of computer science and a research assistant at TU Dortmund University  
+(Chair V for Programming Systems, Dept. of. Computer Science).
 
 The languages I work with are mainly Java and C# (.Net Core), as well a TypeScript.  
 I'm versed in many of the supporting and underlying technologies for web development,

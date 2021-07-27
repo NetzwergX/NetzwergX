@@ -9,5 +9,5 @@ as well as DevOps and *Continuos Practices*.
 
 I'm wrote my bachelor's thesis on **"Visual Authoring of CI/CD Pipeline
 Configurations"** and developed a tool that allows the graphical composition
-of CI/CD pipelines (release of the tool is TBD), greatly reducing the complexity
+of CI/CD pipelines (https://gitlab.com/scce/Rig), greatly reducing the complexity
 of creating such pipelines and making CI/CD much easier accessible.

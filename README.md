@@ -1,7 +1,8 @@
 I'm a student of computer science and a research assistant at the 
 Chair V (Programming Systems) at TU Dortmund University.
 
-The languages I work with are mainly Java and C# (.Net Core), as well a TypeScript.  
+The languages I work with are mainly Java and C# (.Net Core), as well a TypeScript.
+Lately  I have developed an admiration for Scala as well.  
 I'm versed in many of the supporting and underlying technologies for web development,
 including, but not limited to:  
 SQL (mainly MySQL), HTML, CSS, JS/TS and ORM (JPA & Hibernate, EF Core),

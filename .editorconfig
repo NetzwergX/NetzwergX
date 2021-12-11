@@ -14,7 +14,12 @@ trim_trailing_whitespace = true
 indent_style = tab
 charset = utf-8
 
-[*.cs]
+[*.cs] # when in rome, do as the romans do
 # 4 space indentation
 indent_style = space
 indent_size = 4
+
+# mimic NPMs behavior
+[{package.json, package-lock.json}]
+indent_style = tab
+indent_size = 2

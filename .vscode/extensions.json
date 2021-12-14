@@ -1,9 +1,13 @@
 {
 	"recommendations": [
 		"editorconfig.editorconfig",
-		"vscjava.vscode-java-pack",
+		
 		"mhutchie.git-graph",
 		"eamodio.gitlens",
-		"angelo-breuer.license-header-manager"
+		
+		"angelo-breuer.license-header-manager",
+		
+		"vscjava.vscode-java-pack",
+		"sonarsource.sonarlint-vscode"
 	]
 }

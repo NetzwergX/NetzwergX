@@ -1,11 +1,16 @@
 {
-    "editor.renderControlCharacters": true,
-    "editor.rulers": [
-        80, 100, 120
-    ],
-    "editor.renderWhitespace": "all",
-    "terminal.integrated.fontFamily": "Delugia Nerd Font",
-    
+	"editor.renderControlCharacters": true,
+	"editor.rulers": [80, 100, 120],
+	"editor.renderWhitespace": "all",
+	
+	// inbuilt-terminal compatibility with oh-my-posh
+	"terminal.integrated.fontFamily": "Delugia Nerd Font",
+
+	// native bracket coloring
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairs":"active",
+
+	// java
 	"java.configuration.updateBuildConfiguration": "automatic",
 	"java.dependency.packagePresentation": "hierarchical",
 }
